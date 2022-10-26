@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delal</h1>
 <h3 align="center">A passionate Computer Science Student from Turkey</h3>
 
-- 🌱 I’m currently learning **PHP, HTML, CSS, C#**
+- 🌱 I’m currently learning **Blazor WebAssembly, HTML, CSS, C#**
 
 - 📫 How to reach me **delalemen13@gmail.com**
 
